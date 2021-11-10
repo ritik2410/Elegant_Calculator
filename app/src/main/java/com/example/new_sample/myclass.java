@@ -1,4 +1,8 @@
 package com.example.new_sample;
 
-public class myclass {
+import android.widget.TextView;
+
+public class myclass { 
+
+
 }
