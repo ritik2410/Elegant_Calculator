@@ -19,4 +19,4 @@ jobs:
           with:
             azure-devops-project-url: https://dev.azure.com/sudheerkhanduri/testing
             azure-pipeline-name: sudheerkhanduri.Elegant_Calculator
-            azure-devops-token: ${{ secrets.AzureDevOpsPat }}
+            azure-devops-token: ${{ secrets.AZUREDEVOPSPAT }}
