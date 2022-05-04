@@ -24,5 +24,5 @@ public class master_class {
     public void setRoll(int roll) {
         this.roll = roll;
     }
-    
+
 }
