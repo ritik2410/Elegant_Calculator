@@ -1,0 +1,15 @@
+class test{
+    private int num;
+    public test(int x)
+    {
+        num=x;
+    }
+    public setNum(int x)
+    {
+        num=x;
+    }
+    public getNum()
+    {
+        return num;
+    }
+}
