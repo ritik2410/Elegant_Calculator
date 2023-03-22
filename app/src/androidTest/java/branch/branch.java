@@ -3,8 +3,17 @@ package branch;
 public class branch{
     int roll;
     String name;
+    int age;
 
-    branch (String n,int r)
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    branch (String n, int r)
     {
         this.roll=r;
         this.name=n;
