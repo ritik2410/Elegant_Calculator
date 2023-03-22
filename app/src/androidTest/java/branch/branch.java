@@ -1,10 +1,10 @@
-package test1;
+package branch;
 
-public class test1 {
+public class branch{
     int roll;
     String name;
 
-    test1 (String n,int r)
+    branch (String n,int r)
     {
         this.roll=r;
         this.name=n;
