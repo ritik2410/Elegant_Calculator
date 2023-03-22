@@ -3,8 +3,17 @@ package test1;
 public class test1 {
     int roll;
     String name;
+    int year;
 
-    test1 (String n,roll r)
+    public int getYear() {
+        return year;
+    }
+
+    public void setYear(int year) {
+        this.year = year;
+    }
+
+    test1 (String n, int r)
     {
         this.roll=r;
         this.name=n;
